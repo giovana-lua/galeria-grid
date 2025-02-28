@@ -1,7 +1,7 @@
 # Galeria-grid
 
 
-![](./foto.png)
+![](./fotos/foto.png)
 
 ## Atividade
 Minha primeira Galeria Grid
